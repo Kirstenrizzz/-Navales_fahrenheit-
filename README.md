@@ -4,6 +4,9 @@ PROG 1 PRELIM PROJECT
 
 #include <stdio.h>
 
+
+
+
 int main(){
     float fahrenheit;
     float celsius;

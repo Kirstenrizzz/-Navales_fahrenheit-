@@ -2,24 +2,6 @@
 PROG 1 PRELIM PROJECT 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #include <stdio.h>
 
 

@@ -9,20 +9,12 @@ PROG 1 PRELIM PROJECT
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 int main(){
+
     float fahrenheit;
+
     float celsius;
+
     printf("Enter the fahrenheit value: ");
     scanf("%f", &fahrenheit);
     
